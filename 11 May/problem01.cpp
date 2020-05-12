@@ -13,5 +13,5 @@ int main()
 		result = result ^ arr[i];
 	}
 	
-	cout<<"Print the single number: "<<result<<endl;
+	cout<<"Print the single number:"<<result<<endl;
 }
